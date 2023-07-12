@@ -14,3 +14,4 @@ In this project, I uncover insightful findings such as:
 5️⃣ Finally, we'll uncover the geographical locations with the highest tweet activity about Rafael Nadal! 
 But that's not all! I'll also delve into the most frequently used hashtag, the username with the most tweets, and perform an in-depth analysis of the user with the most tweets.
 I am excited to share this notebook with you. You can access it by clicking on the following link: https://lnkd.in/dqvEYiQA
+Additionally, I have attached the notebook as a PDF for your convenience.
